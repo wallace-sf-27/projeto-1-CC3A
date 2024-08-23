@@ -10,7 +10,17 @@ public abstract class veiculos {
         this.cor = cor;
         this.vin = vin;
     }
+
+    // Getter para vin
+    public int getVin() {
+        return vin;
+    }
+
+    // Setter para vin
+    public void setVin(int vin) {
+        this.vin = vin;
+    }
+
     public abstract void acelerar();
     public abstract void buzinar();
-
 }
