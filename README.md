@@ -1,3 +1,5 @@
+PROFESSOR O COMMIT DO CÓDIGO CERTO É O "TESTE FINAL"
+
 feito por Rodrigo e Wallace 
 
 Questoes respostas 
